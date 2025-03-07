@@ -1,4 +1,4 @@
-import { Box, ClockAlert } from "lucide-react";
+import { ClockAlert } from "lucide-react";
 import { Section } from "../components/Custom";
 import { Typography } from "@mui/material";
 
